@@ -1,7 +1,7 @@
 ---
 title: Digital Investigation Indonesia
 subtitle: 'Digital Forensic Investigation, Cyber Security Issues, and Litigation Support'
-image: /img/home-jumbotron.jpg
+image: img/image1.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
