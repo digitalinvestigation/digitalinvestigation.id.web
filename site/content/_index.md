@@ -1,5 +1,5 @@
 ---
-title: digital investigation indonesia
+title: Digital Investigation Indonesia
 subtitle: 'Digital Forensic Investigation, Cyber Security Issues, and Litigation Support'
 image: /img/home-jumbotron.jpg
 blurb:
