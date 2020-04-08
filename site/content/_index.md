@@ -1,6 +1,6 @@
 ---
 title: digital investigation indonesia
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: 'Digital Forensic Investigation, Cyber Security Issues, and Litigation Support'
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
